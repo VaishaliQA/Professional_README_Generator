@@ -37,4 +37,4 @@
   ## License:
   License used for this project - Apache License 2.0 <br>
   For more information on license types, please reference this website. <br>
-  https://choosealicense.com/licenses/apache-2.0/
+  <a href="LICENSE.txt"> Apache-2.0 </a>
